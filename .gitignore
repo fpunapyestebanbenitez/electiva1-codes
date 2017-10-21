@@ -20,3 +20,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+SQLiteDB2/*.iml
+SQLiteDB2/.gradle
+SQLiteDB2/local.properties
+SQLiteDB2/.idea/workspace.xml
+SQLiteDB2/.idea/libraries
+SQLiteDB2/.DS_Store
+SQLiteDB2/build
+SQLiteDB2/captures
+SQLiteDB2/.idea/
+SQLiteDB2/.gitignore
